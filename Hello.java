@@ -3,6 +3,7 @@ public  class Hello{
 		for (int i = 0; i < 10 ; ++i){
 			System.out.println("dev02 say this is  :"+i);
 			System.out.println("dev01  say this is  :"+i);
+			System.out.println("dev01  say this is  :"+i);
 		}	
 	}
 }
